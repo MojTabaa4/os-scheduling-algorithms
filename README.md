@@ -92,7 +92,7 @@ the results in a chart and a back button to return to the home page.
 The chart page displays a chart that visualizes the results of the simulation. The chart shows the waiting time,
 turnaround time, and response time for each process. The chart page has a back button to return to the results page.
 
-## How touse
+## How to use
 
 To use the project, follow these steps:
 
